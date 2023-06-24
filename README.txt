@@ -9,3 +9,12 @@ A song recommendation system made using some spotify playlist data set.
 
 Data Set Kaggle Link: 
 https://www.kaggle.com/datasets/andrewmvd/spotify-playlists?select=spotify_dataset.csv
+
+The first notebook is `Cleaning The Data.ipynb`. This notebook is me cleaning the data
+getting it ready for analyzing.
+
+The seccond notebook is `Visualizations and EDA.ipynb`. In this notebook I am creating
+visualizations and analyzing the data.
+
+The third notebook is `Making The Recommendation System.ipynb`. In this notebook I 
+begin to create the recommendation system and use it to make a recommendation.
