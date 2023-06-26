@@ -22,3 +22,5 @@ begin to create the recommendation system and use it to make a recommendation.
 The dataset.csv is the original data set that I clean and preprocess.
 
 Cleandata.csv is cleaned version of the original data set.
+
+enviroment_file.txt is the enviroment I used to run the notebooks in this project.
