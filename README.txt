@@ -18,3 +18,7 @@ visualizations and analyzing the data.
 
 The third notebook is `Making The Recommendation System.ipynb`. In this notebook I 
 begin to create the recommendation system and use it to make a recommendation.
+
+The dataset.csv is the original data set that I clean and preprocess.
+
+Cleandata.csv is cleaned version of the original data set.
